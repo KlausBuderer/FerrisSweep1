@@ -1,0 +1,6 @@
+# Build artifacts
+*.hex
+qmk_firmware/.build/
+
+# macOS
+.DS_Store
